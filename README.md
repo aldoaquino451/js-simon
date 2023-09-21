@@ -11,7 +11,6 @@ Simon Says
 
 ## JavaScript
 
-1. HTML Inserire un titolo, un div vuoto ma colorato dove andranno i nmumeri e un bottone start
 1. salva il bottone in una variabile e assegna una funzione start al click 
 2. nella funzione start ci sarà
     1. una funzione reset
